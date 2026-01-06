@@ -40,5 +40,3 @@ if ($pos == true) {
 echo "<br/>";
 echo "<br/>";
 
-// Exercice 1.4 – Remplacer un mot
-
